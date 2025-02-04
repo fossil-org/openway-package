@@ -8,5 +8,5 @@ By default, init (v1.0.0) is secured using 'kR' (key restriction).
 There is a very simple password by default which is intended to be changed.
 
 You can access your Openway package in the tests/main.py file.
-Make sure you have Openway installed (gavel install openway)
+Make sure you have Openway installed (gavel install openway --get-packages)
 */
