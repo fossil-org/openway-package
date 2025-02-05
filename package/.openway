@@ -1,11 +1,10 @@
-v1.0.0: kR "package_key_1" // ! replace this password !
+v1.0.0: N // note: v1.0.0 = init
 
 /*
 WELCOME TO OPENWAY
 
 This file controls releases of your package.
-By default, init (v1.0.0) is secured using 'kR' (key restriction).
-There is a very simple password by default which is intended to be changed.
+By default, init (v1.0.0) is open for use.
 
 You can access your Openway package in the tests/main.py file.
 Make sure you have Openway installed (gavel install openway --get-packages)
